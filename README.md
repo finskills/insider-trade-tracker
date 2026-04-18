@@ -22,7 +22,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill insider-trade-tracker
+npx skills add https://github.com/finskills/insider-trade-tracker --skill insider-trade-tracker
 ```
 
 ## Quick Start
@@ -58,7 +58,7 @@ Claude: [Fetches Form 4 data, filters to open-market trades, scores by role, out
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **free plan is sufficient**
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — **free plan is sufficient**
 - **Claude** with skill support
 
 ## License
