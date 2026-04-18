@@ -21,9 +21,11 @@
 
 ## Install
 
-```bash
-npx skills add https://github.com/finskills/insider-trade-tracker --skill insider-trade-tracker
-```
+Add this skill via [ClawHub](https://clawhub.ai/finskills/insider-trade-tracker):
+
+1. Visit **[https://clawhub.ai/finskills/insider-trade-tracker](https://clawhub.ai/finskills/insider-trade-tracker)**
+2. Click **Download zip** and follow the setup instructions
+3. Set your API key: `FINSKILLS_API_KEY=your_key_here`
 
 ## Quick Start
 
