@@ -1,14 +1,15 @@
 ---
 name: Insider Trade Tracker
-version: 1.0.1
+version: 1.0.2
 description: "Track and interpret SEC Form 4 insider buying and selling activity across US-listed equities using the Finskills API."
 author: finskills
-homepage: https://github.com/finskills/insider-trade-tracker
-credentials:
-  - name: FINSKILLS_API_KEY
-    description: "Finskills API key — register for free at https://finskills.net (free tier sufficient for all endpoints used in this skill)"
-    required: true
-    link: https://finskills.net
+metadata:
+  openclaw:
+    requires:
+      env:
+        - FINSKILLS_API_KEY
+    primaryEnv: FINSKILLS_API_KEY
+  homepage: https://github.com/finskills/insider-trade-tracker
 ---
 
 # Insider Trade Tracker
