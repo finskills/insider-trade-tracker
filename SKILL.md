@@ -1,5 +1,5 @@
 ---
-name: Insider Trade Tracker
+name: insider-trade-tracker
 version: 1.0.2
 description: "Track and interpret SEC Form 4 insider buying and selling activity across US-listed equities using the Finskills API."
 author: finskills
